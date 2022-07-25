@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfPeople xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/RestService.Models">
+  <People>
+    <Person>
+      <IDPerson>1</IDPerson>
+      <Name>Barack</Name>
+      <Surname>Obama</Surname>
+      <Gender>Male</Gender>
+      <PictureUrl>https://i.imgur.com/izihXq0.jpeg</PictureUrl>
+    </Person>
+    <Person>
+      <IDPerson>2</IDPerson>
+      <Name>Borat</Name>
+      <Surname>Sagdiyev</Surname>
+      <Gender>Male</Gender>
+      <PictureUrl>https://i.imgur.com/i8PFAwg.jpeg</PictureUrl>
+    </Person>
+    <Person>
+      <IDPerson>3</IDPerson>
+      <Name>Jennifer</Name>
+      <Surname>Lopez</Surname>
+      <Gender>Female</Gender>
+      <PictureUrl>https://i.imgur.com/zgM6Ap6.jpeg</PictureUrl>
+    </Person>
+    <Person>
+      <IDPerson>4</IDPerson>
+      <Name>Nicole</Name>
+      <Surname>Kidman</Surname>
+      <Gender>Female</Gender>
+      <PictureUrl>https://i.imgur.com/wUQZAYg.jpeg</PictureUrl>
+    </Person>
+    <Person>
+      <IDPerson>5</IDPerson>
+      <Name>neil</Name>
+      <Surname>tyson</Surname>
+      <Gender>male</Gender>
+      <PictureUrl>https://i.imgur.com/GuAB8OE.jpeg</PictureUrl>
+    </Person>
+    <Person>
+      <IDPerson>6</IDPerson>
+      <Name>natalie</Name>
+      <Surname>portman</Surname>
+      <Gender>female</Gender>
+      <PictureUrl>https://i.imgur.com/s2PnlAk.jpeg</PictureUrl>
+    </Person>
+  </People>
+</ListOfPeople>
